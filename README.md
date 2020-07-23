@@ -1,5 +1,7 @@
 # A test repository to reproduce JWT signing error
 
+**Add your own Firebase Messaging service account.**
+
 Running the example in XCode on macOS works just fine. However, running it through CLI with `swift build && swift run` causes the error:
 
 ```
